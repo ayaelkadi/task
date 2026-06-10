@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api";
+const API_URL = "https://task-gstysg.fly.dev/api";
 
 // 🔐 login
 export const loginUser = async (data) => {
