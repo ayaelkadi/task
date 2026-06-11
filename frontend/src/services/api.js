@@ -1,4 +1,4 @@
-const API_URL = "https://task-gstysg.fly.dev/api";
+const API_URL = "https://task-9lbs.vercel.app/api";
 
 // 🔐 login
 export const loginUser = async (data) => {
